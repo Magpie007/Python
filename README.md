@@ -4,4 +4,4 @@
 ### [Pandas](https://pandas.pydata.org/)
 # Machine Learning
 ### [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. | Mirjalili, V.
-### [Math for Programmers](https://wangwei1237.github.io/shares/Math-for-Programmers.pdf) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
+### [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
