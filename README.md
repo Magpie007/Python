@@ -8,8 +8,8 @@
 ### [Scientific Python (*SciPy*)](https://docs.scipy.org/doc) | [Installation](https://scipy.org/)
 ### [ MATrix PLOTting LIBrary (*MatPlotLib*)](https://matplotlib.org/)
 ### [Python and Data Analysis (*PANDAS*)](https://pandas.pydata.org/)
-### [SymPy](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
-### [LaTeX](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
+### [Symbolic Python (*SymPy*)](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
+### [Formatting Notebooks (*LaTeX*)](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
 # Machine Learning
 ### [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. | Mirjalili, V.
 ### [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
