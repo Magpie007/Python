@@ -3,6 +3,7 @@
 ### $\square$ [Using Python on Windows](https://docs.python.org/3.9/using/windows.html)
 ### $\square$ [Creation of Virtual Environments](https://docs.python.org/3.9/library/venv.html#module-venv)
 ### $\square$ [Install Packages in a Virtual Environment Using pip and venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
+### $\square$ [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview) | [Licensing](https://visualstudio.microsoft.com/github-copilot/) | [Quickstart](https://docs.github.com/en/copilot/quickstart)
 # Data Analysis
 ### $\square$ [Numerical Python (*NUMPY*)](https://numpy.org/doc/stable/reference/) | [Installation](https://numpy.org)
 ### $\square$ [Scientific Python (*SciPy*)](https://docs.scipy.org/doc) | [Installation](https://scipy.org/)
