@@ -11,6 +11,7 @@
 ### $\square$ [Python and Data Analysis (*PANDAS*)](https://pandas.pydata.org/)
 ### $\square$ [Symbolic Python (*SymPy*)](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
 ### $\square$ [Formatting Notebooks (*LaTeX*)](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
+### $\square$ [Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 # Machine Learning with Python
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. | Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
