@@ -15,7 +15,7 @@
 # Machine Learning and AI
 ### $\square$ [Scikit-learn](https://scikit-learn.org/stable/index.html) | [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
 # Machine Learning with Python
-### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. | Mirjalili, V.
+### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. & Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
 
 
