@@ -7,7 +7,7 @@
 # Data Analysis
 ### $\square$ [Numerical Python (*NUMPY*)](https://numpy.org/doc/stable/reference/) | [Installation](https://numpy.org)
 ### $\square$ [Scientific Python (*SciPy*)](https://docs.scipy.org/doc) | [Installation](https://scipy.org/)
-### $\square$ [ MATrix PLOTting LIBrary (*MatPlotLib*)](https://matplotlib.org/)
+### $\square$ [ MATrix PLOTting LIBrary (*MatPlotLib*)](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/installing.html)
 ### $\square$ [Python and Data Analysis (*PANDAS*)](https://pandas.pydata.org/)
 ### $\square$ [Symbolic Python (*SymPy*)](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
 ### $\square$ [Formatting Notebooks (*LaTeX*)](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
