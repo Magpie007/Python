@@ -17,7 +17,7 @@
 # Materials
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. & Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
-### $\square$ [Liaoxuefeng](https://liaoxuefeng.com/books/python/introduction/index.html)
+### $\square$ [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
 
 
 
