@@ -15,13 +15,17 @@
 ### $\square$ [Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 # Python Libraries for Machine Learning
 ### $\square$ [Scikit-learn](https://scikit-learn.org/stable/index.html) | [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
+### $\square$ [TensorFlow](https://www.tensorflow.org/)
+### $\square$ [pyTorch](https://pytorch.org/)
+### $\square$ [Keras](https://keras.io/)
+### $\square$ [MXNet](https://mxnet.apache.org/versions/1.9.0/) | [Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet)
+### $\square$ [Caffe](http://caffe.berkeleyvision.org/)
 # Books
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. & Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
 # Blogs
 ### $\square$ [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
 ### $\square$ [A vistual intro to Numpy](https://jalammar.github.io/visual-numpy/)
-
-
-
+# Cheat Sheet
+### $\square$ [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Github](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
 
