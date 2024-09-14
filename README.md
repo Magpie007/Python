@@ -26,6 +26,5 @@
 # Blogs
 ### $\square$ [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
 ### $\square$ [A vistual intro to Numpy](https://jalammar.github.io/visual-numpy/)
-# Cheat Sheet
-### $\square$ [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Github](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
+### $\square$ [Cheet Sheet](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
 
