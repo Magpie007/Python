@@ -15,11 +15,12 @@
 ### $\square$ [Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 # Python Libraries for Machine Learning
 ### $\square$ [Scikit-learn](https://scikit-learn.org/stable/index.html) | [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
-# Materials
+# Books
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. & Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
+# Blogs
 ### $\square$ [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
-
+### $\square$ [A vistual intro to Numpy](https://jalammar.github.io/visual-numpy/)
 
 
 
