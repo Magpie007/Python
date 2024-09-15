@@ -24,7 +24,9 @@
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) by Raschka, S. & Mirjalili, V.
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) & [Source Code](https://github.com/orlandpm/Math-for-Programmers) by Orland, Paul
 # Blogs
+### $\square$ [Python for Data Analysis](https://wesmckinney.com/book/)
 ### $\square$ [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
-### $\square$ [A vistual intro to Numpy](https://jalammar.github.io/visual-numpy/)
+### $\square$ [A Vistual Intro to Numpy](https://jalammar.github.io/visual-numpy/)
+### $\square$ [Python Data Science and ML Bootcamp](https://github.com/dianeyuan/python-data-science-and-machine-learning-bootcamp/tree/master)
 ### $\square$ [Cheet Sheet](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/blog/matplotlib-cheat-sheet-plotting-in-python)
 
