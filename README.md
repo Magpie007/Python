@@ -22,10 +22,10 @@
 ### $\square$ [Caffe](http://caffe.berkeleyvision.org/)
 # Books
 ### $\square$ [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*1ycsr27*_ga*MTA5MjMyMDM1Ny4xNzI0MjQwMzU0*_ga_092EL089CH*MTcyNjk4Mzc3NS45LjEuMTcyNjk4NDIyMC41Ni4wLjA.) | [Example Code](https://github.com/ageron/handson-ml3)
+### $\square$ [**Python for Data Analysis**](https://wesmckinney.com/book/)
 ### $\square$ [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) 
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) | [Source Code](https://github.com/orlandpm/Math-for-Programmers) 
-### $\square$ [Python for Data Analysis](https://wesmckinney.com/book/)
 # Others
 ### $\square$ [Think Python](https://allendowney.github.io/ThinkPython/)
 [A Vistual Intro to Numpy](https://jalammar.github.io/visual-numpy/) | [Python Data Science and ML Bootcamp](https://github.com/dianeyuan/python-data-science-and-machine-learning-bootcamp/tree/master) | [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
