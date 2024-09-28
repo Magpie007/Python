@@ -4,6 +4,7 @@
 ### $\square$ [Creation of Virtual Environments](https://docs.python.org/3.9/library/venv.html#module-venv)
 ### $\square$ [Install Packages in a Virtual Environment Using pip and venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment)
 ### $\square$ [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview) | [Licensing](https://visualstudio.microsoft.com/github-copilot/) | [Quickstart](https://docs.github.com/en/copilot/quickstart)
+### $\square$ [GoogleColab](https://colab.research.google.com/)
 ### $\square$ [Simplilearn](https://www.youtube.com/watch?v=UPaN3Z49myw) | [Tips](https://new.pythonforengineers.com/blog/python-tip-always-use-a-virtual-environment/)
 # Python Libraries for Data Analysis
 ### $\square$ [Numerical Python (*NUMPY*)](https://numpy.org/doc/stable/reference/) | [Installation](https://numpy.org)
