@@ -12,7 +12,6 @@
 ### $\square$ [Python and Data Analysis (*PANDAS*)](https://pandas.pydata.org/)
 ### $\square$ [MATrix PLOTting LIBrary (*MatPlotLib*)](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/installing.html)
 ### $\square$ [Symbolic Python (*SymPy*)](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
-### $\square$ [Formatting Notebooks (*LaTeX*)](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
 ### $\square$ [Lessons: Python for Scientific Computing](https://aaltoscicomp.github.io/python-for-scicomp/)
 # Python Libraries for Machine Learning
 ### $\square$ [Scikit-learn](https://scikit-learn.org/stable/index.html) | [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
@@ -33,5 +32,5 @@
 [A Vistual Intro to Numpy](https://jalammar.github.io/visual-numpy/) | [Python Data Science and ML Bootcamp](https://github.com/dianeyuan/python-data-science-and-machine-learning-bootcamp/tree/master) | [Liaoxuefeng's Blog](https://liaoxuefeng.com/books/python/introduction/index.html)
 [Cheet Sheet](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 ### $\square$ [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-### $\square$ [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb) | [LaTex](https://www.latex-project.org/) | [LaTex-Equations](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
-### $\square$ [stackoverflow](https://stackoverflow.com/)
+### $\square$ [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb) | [LaTex](https://www.latex-project.org/) | [LaTex-Equations](https://en.wikibooks.org/wiki/LaTeX/Mathematics) | [Formatting Notebooks (*LaTeX*)](https://latex-programming.fandom.com/wiki/List_of_LaTeX_symbols)
+### $\square$ [Stack Overflow](https://stackoverflow.com/)
