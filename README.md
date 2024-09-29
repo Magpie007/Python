@@ -25,6 +25,7 @@
 ### $\square$ [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/?_gl=1*1ycsr27*_ga*MTA5MjMyMDM1Ny4xNzI0MjQwMzU0*_ga_092EL089CH*MTcyNjk4Mzc3NS45LjEuMTcyNjk4NDIyMC41Ni4wLjA.) | [Example Code](https://github.com/ageron/handson-ml3)
 ### $\square$ [**Python for Data Analysis**](https://wesmckinney.com/book/)
 ### $\square$ [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+### $\square$ [Deep Learning with PyTorch](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
 ### $\square$ [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-3rd-edition) 
 ### $\square$ [Math for Programmers](https://www.manning.com/books/math-for-programmers) | [Source Code](https://github.com/orlandpm/Math-for-Programmers) 
 # Userful References
@@ -33,3 +34,4 @@
 [Cheet Sheet](https://github.com/ugoproto/ugo_py_doc/tree/master/docs/pdf) | [Numpy, Scipy, Pandas](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) | [Scipy](https://ugoproto.github.io/ugo_py_doc/scipy_cs/) | [Basic](http://www.cheat-sheets.org/saved-copy/NumPy_SciPy_Pandas_Quandl_Cheat_Sheet.pdf) | [Kaggle](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet/notebook) | [Matplotlib](https://matplotlib.org/cheatsheets/) | [Github](https://github.com/matplotlib/cheatsheets) | [DataCamp](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 ### $\square$ [Github - Basic Writing and Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 ### $\square$ [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb) | [LaTex](https://www.latex-project.org/) | [LaTex-Equations](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+### $\square$ [stackoverflow](https://stackoverflow.com/)
