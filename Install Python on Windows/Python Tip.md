@@ -7,4 +7,4 @@
 
 [4. Installing and running python](https://www.bitecode.dev/p/installing-python-the-bare-minimum)
 
-[5. YouTube- Virtual Environment in Python](https://www.youtube.com/watch?v=UPaN3Z49myw)
+[5. YouTube - Virtual Environment in Python](https://www.youtube.com/watch?v=UPaN3Z49myw)
